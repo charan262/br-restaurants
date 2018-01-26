@@ -58,35 +58,6 @@ Note: Please allow cross origin resource sharing on your browser otherwise page 
 
 you can inspect all other mobile devices on chrome browser inspect console.
 
-Requirements met:
-
-1.Got JSON Feed
-https://s3.amazonaws.com/br-codingexams/restaurants.json
-
-2.Responsive Design
-
-   RWD is done which can be inspected on chrome browser inspect.
-   
-3.Translate iOS Comp
-
-    As per my understanding i have done below things
-    
-⦁	Removed the global footer
-
-⦁	The "Detail View" existed on the same page as the "List View" and should slide out with a drawer animation.
-
-⦁	Ignored the "Web.png" comp file
-
-4.Map View
-
-⦁	Implemented Google Maps on the Detail View to center the map on the latitude and longitude for the selected store
-
-⦁	Placed markers on the map for the stores in the JSON feed; Created Info Labels with store details that display when activating a marker 
-
-5.Browser Support
-
-   Tested on cross browsers
-
 Challenges faced:
 
 Implementing the google map in React js.
