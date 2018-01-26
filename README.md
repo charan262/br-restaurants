@@ -1,7 +1,9 @@
 # br-restaurants
 
 Environment Setup:
+
 Developed Platform: Windows 10
+
 Installed:
 1. Node.js,
 2. NPM
